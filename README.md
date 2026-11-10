@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8E4A63,100:E75480&height=210&section=header&text=Jina+Bong&fontSize=62&fontColor=FFD6E0&fontAlignY=38&desc=Humanoid+Control+%C2%B7+Sim-to-Real&descSize=20&descAlignY=58">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F7,50:FFD6E0,100:FFB6C8&height=210&section=header&text=Jina+Bong&fontSize=62&fontColor=C2416B&fontAlignY=38&desc=Humanoid+Control+%C2%B7+Sim-to-Real&descSize=20&descAlignY=58" alt="Jina Bong — Humanoid Control · Sim-to-Real" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8E4A63%2C100:E75480&height=210&section=header&text=Jina+Bong&fontSize=62&fontColor=FFD6E0&fontAlignY=38&desc=Humanoid+Control+%C2%B7+Sim-to-Real&descSize=20&descAlignY=58">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F7%2C50:FFD6E0%2C100:FFB6C8&height=210&section=header&text=Jina+Bong&fontSize=62&fontColor=C2416B&fontAlignY=38&desc=Humanoid+Control+%C2%B7+Sim-to-Real&descSize=20&descAlignY=58" alt="Jina Bong — Humanoid Control · Sim-to-Real" width="100%">
 </picture>
 
 <picture>
@@ -46,8 +46,8 @@ Proprioception-only rough-terrain<br>walking on G1<br><br>
 <a href="mailto:jina040602@inu.ac.kr"><img src="https://img.shields.io/badge/jina040602%40inu.ac.kr-E75480?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email jina040602@inu.ac.kr"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8E4A63,100:E75480&height=120&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F7,50:FFD6E0,100:FFB6C8&height=120&section=footer" alt="" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8E4A63%2C100:E75480&height=120&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFF5F7%2C50:FFD6E0%2C100:FFB6C8&height=120&section=footer" alt="" width="100%">
 </picture>
 
 </div>
